@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Blog-sample-SwiftUI/Blog-sample-SwiftUI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Blog-sample-storyboard/Blog-sample-storyboard.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Blog-sample-xib/Blog-sample-xib.xcodeproj">
+   </FileRef>
+</Workspace>
